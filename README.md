@@ -1,0 +1,1 @@
+# samui-badminton-ranking
